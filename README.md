@@ -28,8 +28,9 @@
 
 5. **首次启动配置**  
    安装完成后启动 Android Studio，按提示安装 SDK 组件。
-![alt text](014752220f5c2c919a3042ebf4f5b909.png)
+
 ---
+![014752220f5c2c919a3042ebf4f5b909](https://github.com/user-attachments/assets/3e0867cc-2794-40e1-a771-3619adec950a)
 
 ## Anaconda
 
@@ -52,5 +53,5 @@
    打开终端或命令提示符，输入以下命令：  
    ```bash
    conda --version
-   ![alt text](de141a3ae74f5647158d8bf4141b03e5.png)
-   ![alt text](6cdaac9f28b84df2ba9511771153c703.png)
+![6cdaac9f28b84df2ba9511771153c703](https://github.com/user-attachments/assets/49f31f11-7cb3-4e3b-802e-285786c8aaa3)
+![de141a3ae74f5647158d8bf4141b03e5](https://github.com/user-attachments/assets/b2c39b3f-fd09-41b6-bcc8-23de71277761)
